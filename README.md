@@ -101,3 +101,15 @@ para verificar que el entorno se ha iniciado correctamente se debe parecer a est
                 ]
         }`
 
+# Ejemplo Utilizando **Thunder Client**
+
+![1](img/1.jpg)
+<br>
+<br>
+<br>
+![2](img/2.jpg)
+<br>
+<br>
+<br>
+![3](img/3.jpg)
+
